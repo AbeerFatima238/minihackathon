@@ -16,6 +16,9 @@ export default function Footer() {
                 <li>ALL RIGHT RESERVED ®</li>
              </ul>
             </div>   
+            <div className="flex items-center ml-96 mt-8 px-16 text-2xl font-serif">
+                Created By Abeer Fatima
+            </div>
             </footer>
             </div>
         
